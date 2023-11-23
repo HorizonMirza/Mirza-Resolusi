@@ -1,7 +1,8 @@
 RENCANA KULIAH
 -Javascript
   *ES6
-  *Framework Javascript
+  *Framework Javascript\
+   ^Angular
+   ^React
 -PHP Frameworks
--Laravel
--Struktur data dasar
+ *Laravel
